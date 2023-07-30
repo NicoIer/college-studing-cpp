@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/csv">
+        <file>EnWords.csv</file>
+    </qresource>
+    <qresource prefix="/image">
+        <file>searchIcon.png</file>
+        <file>ChenJ.png</file>
+    </qresource>
+</RCC>

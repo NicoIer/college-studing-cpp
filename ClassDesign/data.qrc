@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>ChenJ.png</file>
+        <file>searchIcon.png</file>
+    </qresource>
+</RCC>
